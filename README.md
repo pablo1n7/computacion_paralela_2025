@@ -1,4 +1,4 @@
-# Computación Paralela: Estimación de Haplotipos 🧬
+# Computación Paralela: Desarrollo y Optimización de un Algoritmo de Haplotipado Genómico. 🧬
 
 Este repositorio contiene la implementación y análisis de rendimiento de un algoritmo para la inferencia de haplotipos, comparando una versión secuencial contra una versión paralela optimizada utilizando `multiprocessing` en Python.
 
