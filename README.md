@@ -49,7 +49,6 @@ haplotipar(procesos=4, individuos=1000, posiciones=8, resultado='mis_resultados.
 
 Para reproducir las pruebas de rendimiento y generar el archivo de tiempos:
 ```
-Bash
 python 03_script_paralelo_con_tiempos.py
 ```
 Esto generará un archivo CSV en la carpeta resultados/.
