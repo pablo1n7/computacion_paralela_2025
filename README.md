@@ -50,4 +50,4 @@ Para reproducir las pruebas de rendimiento y generar el archivo de tiempos:
 ```
 python 03_script_paralelo_con_tiempos.py
 ```
-Esto generará un archivo CSV en la carpeta resultados/.
+Esto generará un archivo CSV en la carpeta `resultados/tiempos.csv`.
