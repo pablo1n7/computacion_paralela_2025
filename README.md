@@ -44,8 +44,7 @@ from 02_script_paralelo import haplotipar
 haplotipar(procesos=4, individuos=1000, posiciones=8, resultado='mis_resultados.txt')
 ```
 
-
-2. Ejecución de Benchmarks
+### 2. Ejecución de Benchmarks
 
 Para reproducir las pruebas de rendimiento y generar el archivo de tiempos:
 ```
